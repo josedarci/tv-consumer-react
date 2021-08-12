@@ -1,4 +1,6 @@
 import { createStore } from "redux";
+ 
+// Here manages the entire state of the application
 
 const INITIAL_STATE = {
   episodes: ([] = []),
